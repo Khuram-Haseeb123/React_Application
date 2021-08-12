@@ -1,0 +1,48 @@
+.ant-layout-header {
+    height: 64px;
+    padding: 0 159px !important;
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 96px !important;
+    background-color: #e6e6e6 !important;
+}
+
+.ant-menu.ant-menu-dark,
+.ant-menu-dark .ant-menu-sub,
+.ant-menu.ant-menu-dark .ant-menu-sub {
+    background-color: #e6e6e6 !important;
+    color: rgba(0, 0, 0, 0.85);
+    height: 56px;
+    float: right;
+}
+
+.ant-layout-header .ant-menu {
+    background-color: #e6e6e6 !important;
+    line-height: inherit;
+    height: 64px;
+    margin-left: 519px;
+}
+
+.logo {
+    background-image: url("https://dawoodulislam.github.io/piroll/img/logo.png");
+    width: 120px;
+    height: 31px;
+    margin: 34px 24px 16px 0;
+    float: left;
+    background-repeat: no-repeat;
+}
+
+.ant-layout-content {
+    flex: auto;
+    min-height: 0;
+    margin-top: 64px;
+    background-color: #e6e6e6;
+    padding-bottom: 205px;
+}
+
+.ant-menu-horizontal {
+    border: none !important;
+}
+
+.ant-layout {
+    background-color: white !important;
+}
